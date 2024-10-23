@@ -47,8 +47,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
 
+![Screenshot 2024-10-23 134901](https://github.com/user-attachments/assets/8dc215df-215c-466e-93d1-fc6f299ca9a3)
 
 
  
@@ -66,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![Screenshot 2024-10-23 134927](https://github.com/user-attachments/assets/5a1c518f-d05a-4707-a522-69732989e32b)
+
 
 
 iv)	Creating the new test cell view
@@ -79,7 +80,8 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![Screenshot 2024-10-23 140557](https://github.com/user-attachments/assets/32c58d1a-9715-4ec6-bbb6-a8f74c80ae23)
+
 
 
  
@@ -94,14 +96,16 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+![Screenshot 2024-10-23 135557](https://github.com/user-attachments/assets/9bdd0c37-f2af-4685-bbfd-b1f48334ecf8)
+
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+ ![Screenshot 2024-10-23 135632](https://github.com/user-attachments/assets/4eca094d-0c22-4134-a282-42e91e396427)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+![Screenshot 2024-10-23 140303](https://github.com/user-attachments/assets/dcf3c06e-2ea6-4f67-8d07-18c4dbb242d5)
+
 
 
 Results:
